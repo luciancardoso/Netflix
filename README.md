@@ -4,3 +4,6 @@ Olá bem eu Recrie a interface do principal site de streaming mundial utilizando
 tudo isso foi ministrada nas aulas do curso Digital Innovation One - HTML Web Developer
 
 para quem quiser o código e modificar fique a vontade !!! 😝
+
+
+![alt text]()
