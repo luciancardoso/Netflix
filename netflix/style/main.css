@@ -5,7 +5,7 @@
 
 @font-face {
     font-family: 'Dead Stock';
-    src: url(/font/Dead\ Stock.ttf);
+    src: url('font/DeadStock.ttf');
 }
 
 * {
