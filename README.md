@@ -11,3 +11,11 @@ para quem quiser o código e modificar fique a vontade !!! 😝
 ![alt text](https://github.com/luciancardoso/Netflix/blob/main/netflix/netflix.PNG)
 
 
+### OBS SOBRE O VIDEO
+
+bem eu não conseguir upar a minha pasta do video aqui no github então eu descomentei na minha main.css na class .filme-principal.
+
+# background     : linear-gradient(rgba(0, 0, 0, .50), rgba(0, 0, 0, .50)100%), url(../img/cobra-kai1.jpg);
+
+caso você baixe esse projeto comente essa linha do background...
+
