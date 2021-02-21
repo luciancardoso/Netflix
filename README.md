@@ -17,5 +17,5 @@ bem eu não conseguir upar a minha pasta do video aqui no github então eu desco
 
 # background     : linear-gradient(rgba(0, 0, 0, .50), rgba(0, 0, 0, .50)100%), url(../img/cobra-kai1.jpg);
 
-caso você baixe esse projeto comente essa linha do background...
+caso você baixe esse projeto comente essa linha do background para exibir o video no fundo...
 
