@@ -6,4 +6,4 @@ tudo isso foi ministrada nas aulas do curso Digital Innovation One - HTML Web De
 para quem quiser o código e modificar fique a vontade !!! 😝
 
 
-![alt text](https://luciancardoso.github.io/Netflix/netflix/index.html)
+![alt text](https://github.com/luciancardoso/Netflix/blob/main/netflix/netflix.PNG)
