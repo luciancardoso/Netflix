@@ -8,7 +8,7 @@ para quem quiser o código e modificar fique a vontade !!! 😝
 ### Site Netflix
 [![Network Tools](https://img.shields.io/badge/-🌐%20Netflix%20Link-000?)](https://luciancardoso.github.io/Netflix/netflix/index.html)
 
-![alt text](https://github.com/luciancardoso/Netflix/blob/main/netflix/netflix.PNG)
+![alt text](https://github.com/luciancardoso/Netflix/netflix.PNG)
 
 
 ### OBS SOBRE O VIDEO
